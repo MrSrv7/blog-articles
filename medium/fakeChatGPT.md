@@ -42,11 +42,9 @@
 
 > Phishing attacks are cyber attacks that use social engineering tactics to trick users into revealing personal information.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chat GPT PC Online Redline redirect.<br><br>I redirected it to closed.<br><br>/chat-gpt-pc.online<a href="https://twitter.com/OpenAI?ref_src=twsrc%5Etfw">@OpenAI</a> <a href="https://twitter.com/hashtag/cybersecurity?src=hash&amp;ref_src=twsrc%5Etfw">#cybersecurity</a> <a href="https://twitter.com/hashtag/infosec?src=hash&amp;ref_src=twsrc%5Etfw">#infosec</a> <a href="https://t.co/lXY5zUyMBj">pic.twitter.com/lXY5zUyMBj</a></p>&mdash; Dominic Alvieri (@AlvieriD) <a href="https://twitter.com/AlvieriD/status/1624638177695735808?ref_src=twsrc%5Etfw">February 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="https://cdn-images-1.medium.com/max/800/1*C-zbjG1wAqYstFS92jTL9g.png" />
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthissomemalewareshitbro%2Fposts%2Fpfbid0ZE8QmyBgLUwg8dBxSyWzKY2hxXPp7MhHxFBgsEvXRBcEbgx1MuoutWPeD5YfijmXl&show_text=true&width=500" width="500" height="544" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-![image-20230225030309591](C:\Users\mrsrv\AppData\Roaming\Typora\typora-user-images\image-20230225030309591.png)
+<img src="https://cdn-images-1.medium.com/max/800/1*ljqt92QEgL_dJkTytx0d2w.png" />
 
 ## Stay Safe
 
