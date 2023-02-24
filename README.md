@@ -4,3 +4,4 @@ A collection of markdown files that I publish in different blogs as articles of 
 
 Blog <https://blog.mrsrv7.dev>
 Dev.to <https://dev.to/mrsrv7>
+Medium.com <https://medium.com/@MrSrv7>
