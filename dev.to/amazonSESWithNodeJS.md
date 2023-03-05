@@ -120,4 +120,4 @@ lambda.invoke(params, function (err, data) {
 
 ## Conclusion
 
-&emsp; This way, we can make a Serverless AWS Lambda function to send emails via AWS's SES programmatically. This is just one of the many advantages of Serverless functions. With the help of serverless functions, we can have our custom functions for custom functionalities without creating a server application from scratch and configuring and maintaining the same. To know more about Serverless functions, checkout. 
+&emsp; This way, we can make a Serverless AWS Lambda function to send emails via AWS's SES programmatically. This is just one of the many advantages of Serverless functions. With the help of serverless functions, we can have our custom functions for custom functionalities without creating a server application from scratch and configuring and maintaining the same. To know more about Serverless functions, checkout [this post](https://cutt.ly/v8Ia8Qe). 

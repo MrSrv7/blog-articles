@@ -64,7 +64,7 @@ Serverless computing can improve the performance of applications, as the serverl
 
 &emsp; Consider if you want to send a welcome email to anyone who just signed up for your site. Configuring **SendGrid** or any other E-Mail delivery service from scratch with a custom server application and accessing it programmatically might be challenging for beginners. This can be solved by using a serverless function to automate and access the function programmatically.
 
-> *Please checkout to learn more about how to setup AWS's SES and Lambda functions to send emails technically*
+> *Please check out [this post](https://cutt.ly/38IajOl) to learn more about how to setup AWS's SES and Lambda functions to send emails technically*
 
 &emsp; This is one of the vast options/functionalities we can achieve using serverless computing. We didn't create our custom server application to set up email-delivering functionality and configuration. Instead, we made a function that will trigger the email deliveries, and we are using that function in our application directly.
 
